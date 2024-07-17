@@ -1,2 +1,5 @@
 
 .DS_Store
+/data
+/results
+code/.ipynb_checkpoints/01-create-descriptors-checkpoint.ipynb
